@@ -1,0 +1,51 @@
+2024-03-05 15:47:02,454 - INFO - Access token obtained successfully.
+2024-03-05 15:47:08,819 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 15:47:10,568 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-05 15:56:42,377 - INFO - Access token obtained successfully.
+2024-03-05 15:56:46,786 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 15:56:47,672 - INFO - Processed user data for: testuser@clouddestinations.com
+2024-03-05 15:56:47,673 - INFO - The user testuser@clouddestinations.com is not scheduled for creation today.
+2024-03-05 15:56:47,682 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-05 15:58:28,548 - INFO - Access token obtained successfully.
+2024-03-05 15:58:33,699 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 15:58:34,346 - INFO - Processed user data for: testuser@clouddestinations.com
+2024-03-05 15:58:34,347 - INFO - The user testuser@clouddestinations.com is not scheduled for creation today.
+2024-03-05 15:58:34,358 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-05 16:00:33,635 - INFO - Access token obtained successfully.
+2024-03-05 16:00:38,153 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 16:00:38,761 - INFO - Processed user data for: testuser@clouddestinations.com
+2024-03-05 16:00:38,762 - INFO - The user testuser@clouddestinations.com already exists. Sending an email.
+2024-03-05 16:00:38,762 - INFO - The new user already exists. Sending an email.
+2024-03-05 16:00:41,832 - INFO - Email sent to kishoreb@clouddestinations.com with subject: User Already Exists
+2024-03-05 16:00:42,035 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-05 16:02:02,648 - INFO - Access token obtained successfully.
+2024-03-05 16:02:07,404 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 16:02:08,112 - INFO - Processed user data for: testuser@clouddestinations.com
+2024-03-05 16:02:08,112 - INFO - The user testuser@clouddestinations.com already exists. Sending an email.
+2024-03-05 16:02:08,112 - INFO - The new user already exists. Sending an email.
+2024-03-05 16:02:10,946 - INFO - Email sent to kishoreb@clouddestinations.com with subject: User Already Exists
+2024-03-05 16:02:11,151 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-05 16:06:30,736 - INFO - Access token obtained successfully.
+2024-03-05 16:06:35,302 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-05 16:06:36,010 - INFO - Processed user data for: testuser@clouddestinations.com
+2024-03-05 16:06:36,010 - INFO - The user testuser@clouddestinations.com does not exist. Creating the new user and sending an email.
+2024-03-05 16:06:36,816 - INFO - User created successfully: testuser@clouddestinations.com
+2024-03-05 16:06:37,814 - INFO - License assigned successfully to user: df8bbe03-03b9-4daf-94d4-1b4056f4e090
+2024-03-05 16:06:39,772 - INFO - Sending an email for successful user creation.
+2024-03-05 16:06:42,416 - INFO - Email sent to kishoreb@clouddestinations.com with subject: User Created
+2024-03-05 16:06:42,714 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+
+2024-03-06 10:57:03,409 - INFO - Access token obtained successfully.
+2024-03-06 10:57:08,961 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-06 10:57:10,191 - INFO - Processing sheet: January 2024
+2024-03-06 10:57:10,233 - INFO - Processing sheet: Feb 2024
+2024-03-06 10:57:10,255 - INFO - Processing sheet: March 2024
+2024-03-06 10:57:10,274 - INFO - Data has been created and named as 'SecOps_Inventory_list.xlsx'
+2024-03-06 10:57:10,523 - INFO - SecOps_Inventory_list.xlsx has been deleted.
+2024-03-06 14:46:45,848 - INFO - Access token obtained successfully.
+2024-03-06 14:46:53,346 - INFO - File downloaded successfully as: downloaded_file.xlsx
+2024-03-06 14:46:54,172 - INFO - Processing sheet: January 2024
+2024-03-06 14:46:54,204 - INFO - Processing sheet: Feb 2024
+2024-03-06 14:46:54,220 - INFO - Processing sheet: March 2024
+2024-03-06 14:46:54,251 - INFO - Data has been created and named as 'SecOps_Inventory_list.xlsx'
+2024-03-06 14:46:54,572 - INFO - SecOps_Inventory_list.xlsx has been deleted.
